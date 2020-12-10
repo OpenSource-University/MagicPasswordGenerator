@@ -1,2 +1,3 @@
-# MagicPasswordGenerator
-Without storage, just magic !
+# Magic Password Generator
+
+Magic Password Generator, an password generator without storage to keep in mind passwords... just magic...
