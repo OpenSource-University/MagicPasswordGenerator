@@ -1,0 +1,9 @@
+{
+    "program": "verify_sector_by_secto_files_checksum",
+    "folder_for_dump": "/tmp/dump_sr_check/",
+    "destroy_command_tmp_data": "sudo shred --force -n 7 --remove -z --verbose {}",
+    "format_command": "mkfs.ext4",
+    "name_img": "temporary.img",
+    "size_image": 800000000,
+    "split_memory": 8000
+}

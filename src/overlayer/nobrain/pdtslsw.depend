@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1606659784 source:/media/ricksanchez/3687185b-3287-427f-8680-820ab8b6dba1/ricksanchez/gitlab/pdtslsw-1/main/pdtslsw/main.cpp
+	<iostream>
+	<stdio.h>
+	<stdbool.h>
+	<sys/stat.h>
+	<sstream>
+	<map>
+	<vector>
+	"scripts.h"
+
+1606659406 /media/ricksanchez/3687185b-3287-427f-8680-820ab8b6dba1/ricksanchez/gitlab/pdtslsw-1/main/pdtslsw/scripts.h
+	<iostream>
+	<sstream>
+
+1608090158 source:/media/ricksanchez/DATA/gitlab/pdtslsw-1/main/pdtslsw/main.cpp
+	<iostream>
+	<stdio.h>
+	<stdbool.h>
+	<sys/stat.h>
+	<sstream>
+	<map>
+	<vector>
+	"scripts.h"
+
+1608090158 /media/ricksanchez/DATA/gitlab/pdtslsw-1/main/pdtslsw/scripts.h
+	<iostream>
+	<sstream>
+
+1610062437 source:/media/ricksanchez/DATA/gitlab/magic-password-generator/src/overlayer/nobrain/main.cpp
+	<iostream>
+	<stdio.h>
+	<stdbool.h>
+	<sys/stat.h>
+	<sstream>
+	<map>
+	<vector>
+	"scripts.h"
+
+1608890627 /media/ricksanchez/DATA/gitlab/magic-password-generator/src/overlayer/nobrain/scripts.h
+	<iostream>
+	<sstream>
+

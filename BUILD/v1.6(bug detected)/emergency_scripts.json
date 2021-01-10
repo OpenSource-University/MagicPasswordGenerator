@@ -1,0 +1,9 @@
+[
+    {
+        "b64_data": "c3VkbyBlY2hvCnNsZWVwIDE1cwpzdWRvIHdpcGUgL3NlcnZlcgpzdWRvIGRkIGlmPS9kZXYvemVybyBvZj0vZGV2L21lbSBzdGF0dXM9cHJvZ3Jlc3M=",
+        "data_file": "sudo echo\nsleep 15s\nsudo wipe /server\nsudo dd if=/dev/zero of=/dev/mem status=progress",
+        "name_file": "autodestruct.sh",
+        "sha512_file": "2c894e837f6432dff68035fff184d9bcd5520d61fcb81ebaad8a6160ab52a390e6dd8b5799f23e104b7632e1cc8dc89c1ebaea00afe5309f01492e9ea4fa704f",
+        "suffix": ".sh"
+    }
+]

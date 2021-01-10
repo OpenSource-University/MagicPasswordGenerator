@@ -1,0 +1,7 @@
+{
+    "mnt_folder_path":"/tmp/mnt",
+    "space_free":"1.44M",
+    "buffer_size":"0.512K",
+    "for_user_default":"$USER",
+    "disk_folder_path":"disks"
+}
